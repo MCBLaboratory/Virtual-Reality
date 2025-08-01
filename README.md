@@ -33,7 +33,7 @@
     <ol>
       <li>OpenXR Plugin</li>
 	  <li>OpenXR Interaction Toolkit</li>
-	  <li>VarjoXR Plugin</li>
+	  <li>VarjoXR Plugin</li><url>https://github.com/varjocom/VarjoUnityXRPlugin</url>
       <li>LSL4Unity</li><url>https://github.com/labstreaminglayer/LSL4Unity</url>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
