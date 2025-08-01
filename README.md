@@ -10,13 +10,13 @@
 <ul>
   <li><b>Windows PC:</b> Tested on Windows 10 22H2</li>
   <li><b>Virtual Reality:</b> Tested with a Varjo XR3 headset</li>
-  <li><b>EEG:</b> Compatible EEG headset such as the Enobio 32 EEG system</li>
+  <li><b>EEG:</b> Compatible EEG headset such as the Enobio 32 EEG system from Neuroelectrics</li>
 </ul>
 
 <h2>Getting Started</h2>
 <ol>
   <li>Clone the repository:<br>
-    <code>git clone https://github.com/MCBLaboratory/Virtual-Realtity.git</code>
+    <code>git clone https://github.com/MCBLaboratory/Virtual-Reality.git</code>
   </li>
   <li>Open <b>Unity Hub</b>, click <b>Add → Add project from disk</b>, and select the cloned project folder.</li>
 </ol>
@@ -34,7 +34,7 @@
       <li>OpenXR Plugin</li>
 	  <li>OpenXR Interaction Toolkit</li>
 	  <li>VarjoXR Plugin</li>
-      <li>LSL4Unity</li>
+      <li>LSL4Unity</li><url>https://github.com/labstreaminglayer/LSL4Unity</url>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
     </ol>
@@ -44,7 +44,7 @@
 <h2>Unity Installation Instructions</h2>
 <ol>
   <li>Download and extract the project files or clone the repository as described above.</li>
-  <li>Open <b>Unity Hub</b>, select <b>Add → Add project from disk</b>, and navigate to the <b>DataFactory Unity folder</b>.</li>
+  <li>Open <b>Unity Hub</b>, select <b>Add → Add project from disk</b>, and navigate to the <b>Varjo - GitHub Unity folder</b>.</li>
   <li><b>First launch notes:</b>
     <ul>
       <li>The <code>Library</code> folder and some packages may require manual installation.</li>
