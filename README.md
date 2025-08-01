@@ -10,7 +10,7 @@
 <ul>
   <li><b>Windows PC:</b> Tested on Windows 10 22H2</li>
   <li><b>Virtual Reality:</b> Tested with a Varjo XR3 headset</li>
-  <li><b>EEG:</b> Compatible EEG headset with LSL support</li>
+  <li><b>EEG:</b> Compatible EEG headset such as the Enobio 32 EEG system</li>
 </ul>
 
 <h2>Getting Started</h2>
@@ -60,4 +60,4 @@
 </ol>
 
 <h2>Development Team</h2>
-<p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean Krampe, funded by the COMFOCUS EU project.</p>
+<p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean, funded by the COMFOCUS EU project.</p>
