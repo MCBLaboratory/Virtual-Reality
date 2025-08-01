@@ -7,6 +7,13 @@
 # Asset Budget
 .assetpropertiescache
 
+# Remove Unity's toolchains
+Library/PackageCache/com.unity.toolchain.*
+Library/PackageCache/com.unity.sysroot.*
+
+# Remove all `.tar.7z` files (very large compressed packages)
+*.tar.7z
+
 # Unity created folders
 **/Logs/
 **/Library/
