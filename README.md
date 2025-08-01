@@ -1,6 +1,6 @@
 <h1 align="center">The Integration of Virtual Reality and EEG: A Step-by-Step Guideline</h1>
 <p align="center">
-  <img src="Pictures/Main Screen 1.png" width="850">
+  <img src="Pictures/LSL Unity.png" width="850">
 </p>
 
 <h2>Overview</h2>
@@ -26,8 +26,7 @@
   <li><b>Operating System:</b> Windows 10 or 11</li>
   <li><b>Unity Versions:</b> 
     <ul>
-      <li><b>Windows PC:</b> Unity <code>2022.3.6f1</code></li>
-      <li><b>VR:</b> Unity <code>2022.3.23f1</code></li>
+      <li><b>Windows PC:</b> Unity <code>2022.3.23f1</code></li>
     </ul>
   </li>
   <li><b>Required Unity Packages:</b>
