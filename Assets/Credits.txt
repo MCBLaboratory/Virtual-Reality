@@ -1,0 +1,24 @@
+Caspar Krampe
+Conceptualization, Methodology, Data Collection, Research Design, Writing – Original Draft Preparation.
+
+Juriaan Wolfers
+Software Development and Programming, Validity Testing, Data Curation, Writing – Original Draft Preparation.
+Responsible for 3D modeling, game logic (C# scripts), system integration, and overall development coordination.
+
+Philip Dean 
+Conceptualization, Methodology, Data Collection, Research Design, Writing – Original Draft Preparation.
+
+Designs:
+Tea package: https://www.cgtrader.com/free-3d-models/plant/other/herbs-110af150-8ed3-4829-b388-c6527a062986
+
+Materials:
+Metal032_2K-JPG: https://ambientcg.com/view?id=Metal032
+Paper006_2K-JPG: https://ambientcg.com/view?id=Paper006
+
+Packages:
+Varjo XR Plugin: https://github.com/varjocom/VarjoUnityXRPlugin.git
+LSL4Unity: https://github.com/labstreaminglayer/LSL4Unity.git
+OpenXR Plugin: https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.15/manual/index.html
+XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.2/manual/index.html
+TMPro: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/index.html
+Animated Oculus Hands: https://www.patreon.com/cw/ValemVR
