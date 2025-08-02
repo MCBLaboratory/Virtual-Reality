@@ -61,18 +61,33 @@
 <h2>Miscellaneous</h2>
 <ol>
   <li>
-    The project is configured for a <strong>Varjo</strong> headset and the
+    The project is configured for a <strong>Varjo</strong> headset and
     <strong>Valve Index Controllers</strong>.
   </li>
   <li>
-    To change the VR headset settings (e.g., add Meta Quest 3), disable <strong>Varjo</strong> and
-    enable <strong>OpenXR</strong> in <em>Project Settings → XR Plug-in Management</em>.
+    To change the VR headset settings (e.g., add Meta Quest 3), disable
+    <strong>Varjo</strong> and enable <strong>OpenXR</strong> in
+    <em>Project Settings → XR Plug-in Management</em>.
   </li>
   <li>
-    To change the controller configuration, go to
+    To update the controller configuration, navigate to
     <em>Project Settings → XR Plug-in Management → OpenXR</em> and replace the
-    <strong>Valve Index Controller Profile</strong> with the desired device (e.g., Meta Quest
-    controllers) using the <code>+</code> / <code>−</code> buttons.
+    <strong>Valve Index Controller Profile</strong> with another (e.g., Meta Quest controllers)
+    using the <code>+</code> / <code>−</code> icons.
+  </li>
+  <li>
+    The <strong>OpenXR Simulator</strong> can be enabled to use keyboard and mouse controls:
+    <ul>
+      <li>In the Hierarchy, enable <em>Setup → XR Device Simulator</em>.</li>
+      <li>
+        In the Game view, press the <code>+</code> on the simulator’s control window to view
+        the input mappings.
+      </li>
+      <li>
+        Navigation may feel unintuitive at first, but the on-screen guide helps clarify the
+        control scheme.
+      </li>
+    </ul>
   </li>
 </ol>
 
