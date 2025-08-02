@@ -58,5 +58,23 @@
   </li>
 </ol>
 
+<h2>Miscellaneous</h2>
+<ol>
+  <li>
+    The project is configured for a <strong>Varjo</strong> headset and the
+    <strong>Valve Index Controllers</strong>.
+  </li>
+  <li>
+    To change the VR headset settings (e.g., add Meta Quest 3), disable <strong>Varjo</strong> and
+    enable <strong>OpenXR</strong> in <em>Project Settings → XR Plug-in Management</em>.
+  </li>
+  <li>
+    To change the controller configuration, go to
+    <em>Project Settings → XR Plug-in Management → OpenXR</em> and replace the
+    <strong>Valve Index Controller Profile</strong> with the desired device (e.g., Meta Quest
+    controllers) using the <code>+</code> / <code>−</code> buttons.
+  </li>
+</ol>
+
 <h2>Development Team</h2>
 <p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean, funded by the COMFOCUS EU project.</p>
