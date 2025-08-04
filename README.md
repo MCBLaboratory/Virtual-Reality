@@ -119,7 +119,7 @@
       <td>Handles object grabbing and material updates for package designs</td>
     </tr>
     <tr>
-      <td><b>EyeTrackingVarjo.cs</b></td>
+      <td><b>EyeTracking Varjo.cs</b></td>
       <td>Modified Varjo eye-tracking script with added variable logging</td>
     </tr>
     <tr>
@@ -179,9 +179,8 @@
 </ol>
 
 <h2>Development Team</h2>
-<p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean.</p>
-<p>Funded by the COMFOCUS EU project: 
-<a href="https://comfocus.eu" target="_blank">Link</a>
+<p>Development by Juriaan Wolfers (WUR), project managed by Caspar Krampe (WUR) and Philip Dean (Surrey).</p>
+<p>Funded by the COMFOCUS EU project.
 </p>
 <p>
   <a href="https://comfocus.eu" target="_blank">
