@@ -64,7 +64,16 @@
 <h2>Example Scene</h2>
 
 <p>
-  This example scene simulates a product selection task involving 10 different package designs, including one designated <b>Target</b> design. The user completes <b>100 rounds</b> of selection, followed by a final round to choose their favorite package.
+  This example scene simulates a product selection task involving 10 different package designs, including one designated <b>Target</b> design. It is part of a multimodal neurophysiological consumer study investigating the <i>first-choice brand effect</i> in the context of sustainable packaging (cf. Krampe et al., 2018). 
+  The user completes <b>100 rounds</b> of selection, followed by a final round to choose their favorite package.
+</p>
+
+<p>
+  <b>Reference:</b><br>
+  Krampe, C., Gier, N. R., & Kenning, P. (2018). The application of mobile fNIRS in marketing research—Detecting the “first-choice-brand” effect. <i>Frontiers in Human Neuroscience, 12</i>, 433.  
+  <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00433/full" target="_blank">
+    https://www.frontiersin.org/articles/10.3389/fnhum.2018.00433/full
+  </a>
 </p>
 
 <p>
