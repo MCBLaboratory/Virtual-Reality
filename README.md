@@ -170,6 +170,10 @@
 </ol>
 
 <h2>Development Team</h2>
+<p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean.</p>
+<p>Funded by the COMFOCUS EU project: 
+<a href="https://comfocus.eu" target="_blank">Link</a>
+</p>
 <p>
-  Development by X Y, project managed by X Y and X Y, funded by the COMFOCUS EU project.
+  <img src="https://comfocus.eu/wp-content/uploads/2021/08/logo_comfocus_option02-2048x623.png" alt="COMFOCUS Logo" width="300">
 </p>
