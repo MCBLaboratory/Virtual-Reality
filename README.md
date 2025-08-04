@@ -184,7 +184,18 @@
 <a href="https://comfocus.eu" target="_blank">Link</a>
 </p>
 <p>
-  <img src="https://comfocus.eu/wp-content/uploads/2021/08/logo_comfocus_option02-2048x623.png" alt="COMFOCUS Logo" width="150">
-  <img src="https://www.wur.nl/upload/22c574cc-cd80-4de3-98ce-76ffc446b2a9_image8599897045786386803.svg" alt="WUR Logo" width="150">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/university-of-surrey-logo-png-transparent.png" alt="Surrey Logo" width="150">
+  <a href="https://comfocus.eu" target="_blank">
+    <img src="https://comfocus.eu/wp-content/uploads/2021/08/logo_comfocus_option02-2048x623.png" alt="COMFOCUS Logo" width="200">
+  </a>
 </p>
+<p>
+  <a href="https://www.wur.nl/en.htm" target="_blank">
+    <img src="https://www.wur.nl/upload/22c574cc-cd80-4de3-98ce-76ffc446b2a9_image8599897045786386803.svg" alt="Wageningen University & Research Logo" width="200">
+  </a>
+</p>
+<p>
+  <a href="https://www.surrey.ac.uk/" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/university-of-surrey-logo-png-transparent.png" alt="University of Surrey Logo" width="200">
+  </a>
+</p>
+
