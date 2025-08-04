@@ -26,7 +26,7 @@
   <li><b>Operating System:</b> Windows 10 or 11</li>
   <li><b>Unity Versions:</b> 
     <ul>
-      <li><b>Windows PC:</b> Unity <code>2022.3.23f1</code></li>
+      <li><b>Windows PC:</b> Tested with Unity <code>2022.3.23f1</code> & <code>2022.3.28f1</code</li>
     </ul>
   </li>
   <li><b>Required Unity Packages:</b>
@@ -57,6 +57,39 @@
     </ul>
   </li>
 </ol>
+
+<h2>Example Scene</h2>
+
+<p>
+  This example scene simulates a product selection task involving 10 different package designs, including one designated <b>Target</b> design. The user completes <b>100 rounds</b> of selection, followed by a final round to choose their favorite package.
+</p>
+
+<p>
+  The scene begins with a button labeled <b>"I am ready!"</b>. Pressing it three times starts the experiment. All packages appear blank and are interactable. After every 10 rounds, the scene automatically enters an <b>indefinite break</b> period until the user chooses to continue.
+</p>
+
+<p>
+  The experiment alternates randomly between two types of condition rounds:
+</p>
+
+<ul>
+  <li><b>C1:</b> 80% Target-Normal vs. 20% Normal-Normal</li>
+  <li><b>C2:</b> 20% Target-Normal vs. 80% Normal-Normal</li>
+</ul>
+
+<p>Each condition type runs for 50 rounds, evenly splitting the total of 100 rounds.</p>
+
+<h3>Included Scripts</h3>
+<ul>
+  <li><b>MainFile.cs:</b> Controls experiment flow, round distribution, event logging, and CSV output</li>
+  <li><b>GrabAdvance.cs:</b> Handles object grabbing and material updates for package designs</li>
+  <li><b>EyeTrackingVarjo.cs:</b> Modified Varjo eye-tracking script with added variable logging</li>
+  <li><b>StartMainGame.cs:</b> Manages the start of the main task, countdown, and event triggers</li>
+  <li><b>StartFavoriteProduct.cs:</b> Initiates the final favorite selection round with event logging</li>
+  <li><b>GrabFavoriteProduct.cs:</b> Handles selection logic in the final round and logs results</li>
+  <li><b>Floating.cs:</b> Applies floating animations to UI elements</li>
+  <li><b>ButtonPressed.cs:</b> Plays a sound when any UI button is clicked</li>
+</ul>
 
 <h2>Miscellaneous</h2>
 <ol>
