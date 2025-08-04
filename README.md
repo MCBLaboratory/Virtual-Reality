@@ -72,7 +72,7 @@
   <b>Reference:</b><br>
   Krampe, C., Gier, N. R., & Kenning, P. (2018). The application of mobile fNIRS in marketing research—Detecting the “first-choice-brand” effect. <i>Frontiers in Human Neuroscience, 12</i>, 433.  
   <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00433/full" target="_blank">
-    https://www.frontiersin.org/articles/10.3389/fnhum.2018.00433/full
+    Frontiers
   </a>
 </p>
 
