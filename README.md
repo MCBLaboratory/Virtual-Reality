@@ -68,7 +68,7 @@
 </p>
 
 <p>
-  The scene begins with a button labeled <b>"I am ready!"</b>. Pressing it three times starts the experiment. All packages appear blank and are interactable. After every 10 rounds, the scene automatically enters an <b>indefinite break</b> period until the user chooses to continue.
+  The scene begins with a button labeled <b>"I am ready!"</b> and blank packages that are interactable. Pressing it three times starts the experiment. After every 10 rounds, the scene automatically enters an <b>indefinite break</b> period until the user chooses to continue.
 </p>
 
 <p>
@@ -81,6 +81,16 @@
 </ul>
 
 <p>Each condition type runs for 50 rounds, evenly splitting the total of 100 rounds.</p>
+
+<p>
+  <b>Play Mode Functionality:</b>
+</p>
+
+<ul>
+  <li><b>Data Logging:</b> Starts automatically when Play Mode is activated. Results are written to a <code>.csv</code> file located in <code>Assets/Data</code>.</li>
+  <li><b>Eye Tracking:</b> Begins recording when the <code>F1</code> key is pressed and writes the data in a <code>.csv</code> file located in <code>Assets/EyeTracking</code></li>
+  <li><b>LSL Integration:</b> The Lab Streaming Layer (LSL) activates automatically in Play Mode and sends (data logging) event data to a compatible EEG software program. This has been tested with the <b>NIC2 EEG software</b>.</li>
+</ul>
 
 <h3>Included Scripts</h3>
 <table border="1" cellpadding="8" cellspacing="0">
@@ -125,7 +135,6 @@
     </tr>
   </tbody>
 </table>
-
 
 <h2>Miscellaneous</h2>
 <ol>
