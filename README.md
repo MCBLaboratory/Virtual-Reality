@@ -185,4 +185,6 @@
 </p>
 <p>
   <img src="https://comfocus.eu/wp-content/uploads/2021/08/logo_comfocus_option02-2048x623.png" alt="COMFOCUS Logo" width="300">
+  <img src="https://img.favpng.com/6/12/22/wageningen-university-and-research-brand-logo-trademark-product-png-favpng-y1JQqTnYcmJUvAKFhY5fn1igR.jpg" alt="WUR Logo" width="300">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/university-of-surrey-logo-png-transparent.png" alt="Surrey Logo" width="300">
 </p>
