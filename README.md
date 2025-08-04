@@ -1,10 +1,13 @@
 <h1 align="center">The Integration of Virtual Reality and EEG: A Step-by-Step Guideline</h1>
+
 <p align="center">
   <img src="Pictures/LSL Unity.png" width="850">
 </p>
 
 <h2>Overview</h2>
-<p>This project provides a comprehensive framework for integrating multimodal data streams within a Virtual Reality environment. It leverages Unity alongside the Lab Streaming Layer (LSL) protocol to synchronize data from a Varjo XR3 headset and an EEG headset, enabling researchers to collect and analyze physiological and behavioral data simultaneously.</p>
+<p>
+  This project provides a comprehensive framework for integrating multimodal data streams within a Virtual Reality environment. It leverages Unity alongside the Lab Streaming Layer (LSL) protocol to synchronize data from a Varjo XR3 headset and an EEG headset, enabling researchers to collect and analyze physiological and behavioral data simultaneously.
+</p>
 
 <h2>Requirements</h2>
 <ul>
@@ -24,17 +27,17 @@
 <h2>Unity Versions & Dependencies</h2>
 <ul>
   <li><b>Operating System:</b> Windows 10 or 11</li>
-  <li><b>Unity Versions:</b> 
+  <li><b>Unity Versions:</b>
     <ul>
-      <li><b>Windows PC:</b> Tested with Unity <code>2022.3.23f1</code> & <code>2022.3.28f1</code</li>
+      <li><b>Windows PC:</b> Tested with Unity <code>2022.3.23f1</code> & <code>2022.3.28f1</code></li>
     </ul>
   </li>
   <li><b>Required Unity Packages:</b>
     <ol>
       <li>OpenXR Plugin</li>
-	  <li>OpenXR Interaction Toolkit</li>
-	  <li>VarjoXR Plugin</li><url>https://github.com/varjocom/VarjoUnityXRPlugin</url>
-      <li>LSL4Unity</li><url>https://github.com/labstreaminglayer/LSL4Unity</url>
+      <li>OpenXR Interaction Toolkit</li>
+      <li>VarjoXR Plugin – <a href="https://github.com/varjocom/VarjoUnityXRPlugin" target="_blank">GitHub</a></li>
+      <li>LSL4Unity – <a href="https://github.com/labstreaminglayer/LSL4Unity" target="_blank">GitHub</a></li>
       <li>Post Processing</li>
       <li>TextMeshPro</li>
     </ol>
@@ -80,16 +83,49 @@
 <p>Each condition type runs for 50 rounds, evenly splitting the total of 100 rounds.</p>
 
 <h3>Included Scripts</h3>
-<ul>
-  <li><b>MainFile.cs:</b> Controls experiment flow, round distribution, event logging, and CSV output</li>
-  <li><b>GrabAdvance.cs:</b> Handles object grabbing and material updates for package designs</li>
-  <li><b>EyeTrackingVarjo.cs:</b> Modified Varjo eye-tracking script with added variable logging</li>
-  <li><b>StartMainGame.cs:</b> Manages the start of the main task, countdown, and event triggers</li>
-  <li><b>StartFavoriteProduct.cs:</b> Initiates the final favorite selection round with event logging</li>
-  <li><b>GrabFavoriteProduct.cs:</b> Handles selection logic in the final round and logs results</li>
-  <li><b>Floating.cs:</b> Applies floating animations to UI elements</li>
-  <li><b>ButtonPressed.cs:</b> Plays a sound when any UI button is clicked</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Script</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MainFile.cs</b></td>
+      <td>Controls experiment flow, round distribution, event logging, and CSV output</td>
+    </tr>
+    <tr>
+      <td><b>GrabAdvance.cs</b></td>
+      <td>Handles object grabbing and material updates for package designs</td>
+    </tr>
+    <tr>
+      <td><b>EyeTrackingVarjo.cs</b></td>
+      <td>Modified Varjo eye-tracking script with added variable logging</td>
+    </tr>
+    <tr>
+      <td><b>StartMainGame.cs</b></td>
+      <td>Manages the start of the main task, countdown, and event triggers</td>
+    </tr>
+    <tr>
+      <td><b>StartFavoriteProduct.cs</b></td>
+      <td>Initiates the final favorite selection round with event logging</td>
+    </tr>
+    <tr>
+      <td><b>GrabFavoriteProduct.cs</b></td>
+      <td>Handles selection logic in the final round and logs results</td>
+    </tr>
+    <tr>
+      <td><b>Floating.cs</b></td>
+      <td>Applies floating animations to UI elements</td>
+    </tr>
+    <tr>
+      <td><b>ButtonPressed.cs</b></td>
+      <td>Plays a sound when any UI button is clicked</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h2>Miscellaneous</h2>
 <ol>
@@ -125,4 +161,6 @@
 </ol>
 
 <h2>Development Team</h2>
-<p>Development by Juriaan Wolfers, project managed by Caspar Krampe and Philip Dean, funded by the COMFOCUS EU project.</p>
+<p>
+  Development by X Y, project managed by X Y and X Y, funded by the COMFOCUS EU project.
+</p>
