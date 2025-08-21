@@ -8,7 +8,9 @@
 <p>
   This project provides a comprehensive framework for integrating multimodal data streams within a Virtual Reality environment. It leverages Unity alongside the Lab Streaming Layer (LSL) protocol to synchronize data from a Varjo XR3 headset and an EEG headset, enabling researchers to collect and analyze physiological and behavioral data simultaneously.
 
+<p align="center">
   <img src="Pictures/CF.png" width="850">
+</p>
 </p>
 
 <h2>Requirements</h2>
