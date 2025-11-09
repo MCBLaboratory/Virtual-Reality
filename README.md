@@ -210,14 +210,21 @@
 </p>
 
 <p>
-  This project is licensed under the <strong>MIT License</strong> — you are free to use, modify, and distribute this software and documentation, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
-</p>
-
-<p>
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  This project is licensed under the <strong>MIT License</strong>. You are free to use, modify, and distribute this software and documentation, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
 </p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT" target="_blank">View full license text</a>
+  <a href="./LICENSE" target="_blank">View full license text</a>
 </p>
+
+<hr>
+
+<h2>Citation</h2>
+<p>
+If you use this code in your research, please cite:<br>
+<b>Krampe, C., Wolfers, J., & Dean, P.</b> (2025). <i>The Integration of Virtual Reality and EEG: A Step-by-Step Guideline.</i> MethodsX.<br>
+<a href="https://github.com/MCBLaboratory/Virtual-Reality" target="_blank">GitHub Repository</a>
+
+</p>
+
 
