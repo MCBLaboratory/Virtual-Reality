@@ -55,7 +55,7 @@
   <li><b>First launch notes:</b>
     <ul>
       <li>Some packages (e.g., <b>VarjoXR Plugin</b>, <b>LSL4Unity</b>) require Git. Make sure Git is installed and in your PATH before first launch.</li>
-      <li>If Git is not available, packages can be downloaded manually from GitHub and added via <b>Window → Package Manager → + → Add package from disk...</b>.</li>
+      <li>If Git is not available, packages can be downloaded manually from GitHub and added via <b>Window → Package Manager → + → Add package from disk</b>.</li>
       <li>After installing Git or manually adding the packages, open <b>Window → Package Manager</b> to verify all required packages are installed.</li>
     </ul>
   </li>
