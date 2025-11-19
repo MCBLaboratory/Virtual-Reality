@@ -22,7 +22,7 @@
 
 <h2>Getting Started</h2>
 <ol>
-  <li>Clone the repository:<br>
+  <li>Clone the repository or download the .zip from the <> Green code button:<br>
     <code>git clone https://github.com/MCBLaboratory/Virtual-Reality.git</code>
   </li>
   <li>Open <b>Unity Hub</b>, click <b>Add → Add project from disk</b>, and select the cloned project folder.</li>
@@ -54,16 +54,13 @@
   <li>Open <b>Unity Hub</b>, select <b>Add → Add project from disk</b>, and navigate to the <b>Varjo - GitHub Unity folder</b>.</li>
   <li><b>First launch notes:</b>
     <ul>
-      <li>The <code>Library</code> folder and some packages may require manual installation.</li>
-      <li>To install missing packages:
-        <ul>
-          <li>Go to <b>Window → Package Manager</b></li>
-          <li>Add the required Unity packages listed above.</li>
-        </ul>
-      </li>
+      <li>Some packages (e.g., <b>VarjoXR Plugin</b>, <b>LSL4Unity</b>) require Git. Make sure Git is installed and in your PATH before first launch.</li>
+      <li>If Git is not available, packages can be downloaded manually from GitHub and added via <b>Window → Package Manager → + → Add package from disk...</b>.</li>
+      <li>After installing Git or manually adding the packages, open <b>Window → Package Manager</b> to verify all required packages are installed.</li>
     </ul>
   </li>
 </ol>
+
 
 <h2>Example Scene</h2>
 
