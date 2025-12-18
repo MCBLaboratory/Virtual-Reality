@@ -190,7 +190,9 @@
 </p>
 <p>
   <a href="https://www.wur.nl/en.htm" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/Wageningen_University_%26_Research#/media/File:Wageningen_University_and_Research_logo.png" alt="Wageningen University & Research Logo" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wageningen_University_%26_Research_logo.png"
+     alt="Wageningen University & Research Logo"
+     width="200">
   </a>
 </p>
 <p>
