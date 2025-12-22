@@ -219,7 +219,7 @@
 <h2>Citation</h2>
 <p>
 If you use this code in your research, please cite:<br>
-<b>Krampe, C., Wolfers, J. and Dean, P., 2025. The Integration of Virtual Reality and EEG: A Step-by-Step Guideline. MethodsX, p.103770.</i><br>
+<b>Krampe, C., Wolfers, J. and Dean, P., 2025.</b></i> The Integration of Virtual Reality and EEG: A Step-by-Step Guideline. MethodsX, p.103770.</i><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016125006144" target="_blank">MethodsX</a>
 
 </p>
